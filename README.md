@@ -21,6 +21,6 @@ $ python2 Spam.py
 ## Contact us
 ```
 fnugroho159@gmail.com
-https://github.com/BlackCoderCrush
+https://github.com/mrbaiz
 https://fajarbaiz.com/kontak
 ```
