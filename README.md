@@ -10,6 +10,8 @@ https://www.fajarbaiz.com/
 ```
 ## Installation
 ```
+$ apt update && upgrade
+$ pkg install git
 $ pkg install python2 git
 $ pip2 install requests
 $ git clone https://github.com/mrbaiz/mailspam
