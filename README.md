@@ -1,4 +1,4 @@
-#<img src="https://3.bp.blogspot.com/-xL4bTv6KRAw/XIm5kwTXqNI/AAAAAAAAAHE/JtSD00EGrSE-7l8isIjFKt9YCE5eRGgcgCLcBGAs/s320/Screenshot_2019-03-14-09-08-36.png" />
+#<img src=".png" />
 
 # LinkChatGen script
 ```
@@ -16,7 +16,7 @@ $ git clone https://github.com/mrbaiz/mailspam
 $ cd mailspam
 $ python2 Spam.py
 ```
-## Contack us
+## Contact us
 ```
 fnugroho159@gmail.com
 https://github.com/BlackCoderCrush
