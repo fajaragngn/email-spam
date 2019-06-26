@@ -12,7 +12,7 @@ https://www.fajarbaiz.com/
 ```
 $ apt update && upgrade
 $ pkg install git
-$ pkg install python2 git
+$ pkg install python2
 $ pip2 install requests
 $ git clone https://github.com/mrbaiz/mailspam
 $ cd mailspam
